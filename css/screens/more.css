@@ -16,26 +16,25 @@
   display: flex;
 }
 
-..more-suggestions__icon {
+.more-suggestions__icon {
   margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .more-suggestions__icon-image {
-}
-
-.more-suggestions__icon-image img {
   width: 60px;
   height: 60px;
+  background-color: lightgreen;
   border-radius: 10px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin: 0 20px;
-}
-
-.more-suggestions__icon-image span {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0 40px;
+  margin-bottom: 10px;
+}
+
+.more-suggestions__icon-image i {
+  font-size: 30px;
+  color: white;
 }
