@@ -1,3 +1,3 @@
-# Kokoa Clone 2021 Update
+# Cloning KaKaoTalk with HTML & CSS
 
-HTML & CSS are so much fun!
+NomardCoders's Lecture Project.
